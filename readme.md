@@ -1,7 +1,5 @@
 # React Laravel Boilerplate
 
-[![Build Status](https://travis-ci.org/huwcarwyn/react-laravel-boilerplate.svg?branch=master)](https://travis-ci.org/huwcarwyn/react-laravel-boilerplate)
-
 This is the boilerplate that I personally use for getting projects off the ground quickly using my favourite stack of technologies. It uses Laravel as a backend API service, and has a React single page application in the front end.
 
 ## Features
@@ -20,7 +18,7 @@ This is the boilerplate that I personally use for getting projects off the groun
 ## Installation
 I personally use Vagrant and [Homestead](https://laravel.com/docs/5.5/homestead "Homestead"), so these installation instructions assume that you use Homestead as well, but the project's dependencies are very similar to the base Laravel installation, so if you use something else to develop locally, the instructions shouldn't change too much.
 
-- Clone the repository using `git clone https://github.com/huwcarwyn/react-laravel-boilerplate`
+- Clone the repository using `git clone https://github.com/praveencs87/dot`
 - Install composer dependencies using `composer install`
 - Install NPM dependencies using `npm install`
 - Make sure to create two databases, one main and one for running the tests
